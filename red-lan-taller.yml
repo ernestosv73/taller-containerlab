@@ -11,7 +11,7 @@ topology:
     switch-cisco:
       kind: cisco_iol
       image: docker.io/arthurk99/cisco-iol-l2:17.15.01
-      startup-config: switch/config.partial
+      startup-config: switch/config2.partial
       type: L2
  
     PC1:
