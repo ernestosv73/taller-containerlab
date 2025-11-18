@@ -10,9 +10,9 @@
 </div>
 
 ---
- La topología creada provee un laboratorio de pruebas para la configuración de una red LAN IPv4 que conecta un dispositivo Switch CISCO IOL-L2 y un Router CISCO IOL.
+ La topología creada provee un laboratorio de pruebas para la configuración de una red LAN IPv6 que conecta un dispositivo Switch CISCO IOL-L2 y un Router CISCO IOL.
  
-![Alt text](images/topo-lab-taller.png)
+![Alt text](images/redlan.png)
 
 ---
 ## Descripción de configuraciones
