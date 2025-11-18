@@ -10,13 +10,12 @@
 </div>
 
 ---
- La topología creada provee un laboratorio de pruebas para la configuración de una red LAN IPv4 que conecta un dispositivo Switch Arista cEOS y un Router CISCO IOL.
+ La topología creada provee un laboratorio de pruebas para la configuración de una red LAN IPv4 que conecta un dispositivo Switch CISCO IOL-L2 y un Router CISCO IOL.
  
 ![Alt text](images/topo-lab-taller.png)
 
 ---
 ## Descripción de configuraciones
-* Se configura DHCP Server para VLAN 10 y VLAN 11 en Switch Arista. Archivo de configuración inicial: myconfig.conf
 * Archivo de configuración inicial Router Cisco: config.partial
 ---
 ## Conexión a los nodos
